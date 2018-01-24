@@ -10,5 +10,5 @@ See `Documentation.pdf`.
 
 # Authors
 
-[*] Matthieu Le Boucher (@(Meight)[https://github.com/Meight]): mathematical method and development;
-[*] Thomas Faget: development.
+* Matthieu Le Boucher (@([Meight](https://github.com/Meight)): mathematical method and development;
+* Thomas Faget: development.
